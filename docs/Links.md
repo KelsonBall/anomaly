@@ -13,4 +13,6 @@ https://en.wikipedia.org/wiki/Eccentric_anomaly
 "Solving Kepler's Equation of Elliptical Motion"
 http://www.jgiesen.de/kepler/kepler.html
 
+MAE 462
+http://control.asu.edu/Classes/MAE462/462Lecture[01-18].pdf
 
